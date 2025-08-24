@@ -1,13 +1,9 @@
-<h1 align="center">Olá 👋 , meu nome é Samuel</h1>
-<h3 align="center">Um estudante Back-end desenvolvedor do Brasil 🇧🇷 </h3>
+<h1 align="center">Olá, meu nome é Samuel! 👋 </h1>
+<h3 align="center">Um estudante desenvolvedor Back-end do Brasil 🇧🇷 </h3>
 
-- 🌱 Estou aprendendo sobre **Node.js, AWS cloud e Banco de Dados**
+# 💫 Sobre mim:
+🌱 Atualmente estou aprendendo sobre Node.js, AWS cloud e Banco de Dados<br>🤝 À disposição de novas colaborações em projetos!<br>💻Todas minhas atividades postadas no https://www.linkedin.com/in/samuel-souza-back-end-developer/<br>💬Me contate através do meu e-mail! samuel1372822@gmail.com<br>⚡Curiosidade... Comecei a estudar a 5 meses
 
-- 👨 💻Todas minhas atividades postadas no [https://www.linkedin.com/in/samuel-souza-back-end-developer/](https://www.linkedin.com/in/samuel-souza-back-end-developer/)
-
-- 📫 Como me contatar ** samuel1372822@gmail.com**
-
-- ⚡curiosidade **comecei a estudar TI a 4 meses**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
