@@ -5,13 +5,11 @@
 🌱 Atualmente estou aprendendo sobre Node.js, AWS cloud e Banco de Dados<br>🤝 À disposição de novas colaborações em projetos!<br>💻Todas minhas atividades postadas no https://www.linkedin.com/in/samuel-souza-back-end-developer/<br>💬Me contate através do meu e-mail! samuel1372822@gmail.com<br>⚡Curiosidade... Comecei a estudar a 5 meses
 
 
-<h3 align="left">Se conecte comigo:</h3>
+<h3 align="left">🌐 Se conecte comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel souza santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel souza santos" height="30" width="40" /></a>
 </p>
 
-
-## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-souza-back-end-developer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuel1372822@gmail.com) 
 
 
