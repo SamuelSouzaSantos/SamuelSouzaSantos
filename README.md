@@ -33,7 +33,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SamuelSouzaSantos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSouzaSantos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆Trophies GitHub 
+## 🏆Troféus GitHub 
 ![](https://github-profile-trophy.vercel.app/?username=SamuelSouzaSantos&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Notas aleatórias DEV
