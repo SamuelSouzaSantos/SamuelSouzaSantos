@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/samuel souza santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel souza santos" height="30" width="40" /></a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-souza-back-end-developer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuel1372822@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/samuel-souza-back-end-developer/](https://www.linkedin.com/in/samuel-souza-back-end-developer/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuel1372822@gmail.com) 
 
 
 <h3 align="left">💻 Linguagens e Ferramentas:</h3>
