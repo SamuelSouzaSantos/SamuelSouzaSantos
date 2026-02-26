@@ -2,7 +2,7 @@
 <h3 align="center">Um estudante desenvolvedor Back-end do Brasil 🇧🇷 </h3>
 
 # 💫 Sobre mim:
-🌱 Atualmente estou aprendendo sobre Node.js, AWS cloud e Banco de Dados<br>🤝 À disposição de novas colaborações em projetos!<br>💻Todas minhas atividades postadas no https://www.linkedin.com/in/samuel-souza-back-end-developer/<br>💬Me contate através do meu e-mail! samuel1372822@gmail.com<br>⚡Curiosidade... Comecei a estudar a 5 meses
+🌱 Atualmente estou aprendendo sobre Node.js, AWS cloud e Banco de Dados<br>🤝 À disposição de novas colaborações em projetos!<br>💻Todas minhas atividades postadas no https://www.linkedin.com/in/samuel-souza-back-end-developer/<br>💬Me contate através do meu e-mail! samuel1372822@gmail.com<br>⚡Curiosidade... Comecei a estudar a 8 meses
 
 
 <h3 align="left">🌐 Se conecte comigo:</h3>
